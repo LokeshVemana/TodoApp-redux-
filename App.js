@@ -1,7 +1,6 @@
 import React from 'react'
 import Counter from './Counter/Counter'
-// import store from './redux/store'
-// import {Store } from "./ReduxToolKit/Store"
+
 import "./App.css";
 import { Provider } from 'react-redux'
 import Todo from './TodoList/Todo'
